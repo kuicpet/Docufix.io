@@ -68,11 +68,13 @@ a:hover{
 }
 #Introduction{
     width: 100%;
-    margin-top: 25%;
+    margin-top: 10%;
     margin-bottom: 2%;
     
 }
+
 .navbar{
+    
     background-color: #3B1F9E;
     color: #FFFFFF !important;
 }
@@ -80,10 +82,9 @@ a:hover{
     color: #FFFFFF !important;
 }
 #container{
-    width: 83% !important;
     background-color: #FFFFFF !important;
-border: 1px solid rgba(196, 196, 196, 0.4);
-border-radius: 10px !important;
+    border: 1px solid rgba(196, 196, 196, 0.4);
+    border-radius: 10px !important;
 }
 .navbar-dark{
     color: #FFFFFF !important;
@@ -100,6 +101,9 @@ border-radius: 10px !important;
     #Introduction h3{
         font-size: 1.5em;
     }
+    #Introduction{
+        margin-top:20%;
+    }
     h3{
         font-size: 1em;
         text-align: center;
@@ -107,5 +111,5 @@ border-radius: 10px !important;
      .section{
          margin: 0;
      }   
-
+     
 }
